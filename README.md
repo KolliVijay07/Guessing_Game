@@ -1,4 +1,4 @@
-###Guessing Game using Python
+### Guessing Game using Python
 
 This is a simple Python number-guessing game where the player tries to guess a randomly generated number between 1 and 10 within a limited number of attempts based on their chosen difficulty level (Easy, Medium, or Hard).
 
